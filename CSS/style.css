@@ -1,0 +1,31 @@
+body {
+	background-image:url(baku.jpg);
+}
+
+
+.link {
+	background-color: white;
+	color: #2E6291;
+	border: 5px solid #2E6291;
+	border-radius: 30px;
+	opacity: 0.9;
+}
+
+.link2 {
+	background-color: white;
+	color: black;
+	border: 5px solid #2E6291;
+	border-radius: 30px;
+	opacity: 0.9;
+}
+
+.link3 {
+	background-color: white;
+	color: red;
+	border: 0;
+	opacity: 0.9;
+}
+
+.link:hover {
+	border: 8px solid #FF821A; 
+}
